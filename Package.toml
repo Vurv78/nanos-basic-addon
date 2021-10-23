@@ -1,0 +1,15 @@
+[package]
+name =                 "Basic Nanosworld Addon"
+author =               "You"
+version =              "0.1.0"
+# Addon Image URL
+image =                ""
+# "script" (addon), "game-mode", "loading-screen"
+type =                 "script"
+# whether to force the custom map Script to do not load
+force_no_map_script =  false
+# When the package unloads, delete all entities it created
+auto_cleanup =         true
+# Dependencies
+packages_requirements = []
+assets_requirements = []

@@ -1,0 +1,12 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size: 14px;
+	margin: 0px;
+	padding: 0px;
+	color: #ffffffe6;
+	user-select: none;
+}
